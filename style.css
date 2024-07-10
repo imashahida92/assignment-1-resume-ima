@@ -82,6 +82,7 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
+margin-bottom: 30px;
 
 }
 header .profile button{
@@ -142,9 +143,9 @@ margin-top: 24px;
 .section-main{
     padding: 48px;
     display: flex;
-    justify-content: center;
+    justify-content:start;
     align-items: center;
-
+    text-align: left;
 }
 .section-main .inner-div h4{
     color: rgba(13, 19, 33, 0.7);
@@ -155,6 +156,7 @@ line-height: 36px;
 letter-spacing: 0%;
 text-align: left;
 width: 60%;
+margin-left: 0px;
 }
 .section-main .inner-div p{
 color: rgb(13, 19, 33);
@@ -167,7 +169,8 @@ text-align: left;
 width: 60%;
 opacity: 0.7;
 margin-bottom: 32px;
-
+margin-top: 16px;
+margin-left: 0px;
 }
 .inner-div{
     display: flex;
@@ -191,12 +194,15 @@ font-weight: 600;
 line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
-margin: 0px;
+margin-left: 0px;
 }
 
 .section-img{
     text-align: center;
     width: 40%;
+}
+.section{
+    margin-bottom: 140px;
 }
 /* inspiration section start here */
 .inspiration{
