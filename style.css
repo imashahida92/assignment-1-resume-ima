@@ -217,3 +217,49 @@ padding: 32px;
     margin: 0 auto;
 }
 /* target section start here  */
+.skill{
+    padding: 40px;
+    border-radius: 16px;
+width: 364px;
+height: 300px;
+margin-bottom: 111px;
+}
+.skill h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 24px;
+}
+.skill p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-top: 8px;
+margin-bottom: 24px;
+
+}
+.skill span{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+margin: 0px;
+}
+.skills{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
